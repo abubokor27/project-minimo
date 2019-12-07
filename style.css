@@ -1,0 +1,293 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+/*
+    font-family: 'Roboto', sans-serif;
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+}
+
+body {
+    font-family: Arial, sans-sarif;
+}
+
+.large_container {
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.container {
+    width: 960px;
+    margin: 0 auto;
+}
+
+/*----------------TYPOGRAPHY------------------*/
+a {
+    text-decoration: none;
+    color: #C7C1B6;
+
+}
+
+a:visited {
+    background: ;
+}
+
+a:focus {
+    background: green;
+}
+
+li {
+    list-style-type: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 10px 0;
+}
+
+h2 {
+    color: #626262;
+    font-size: 30px
+}
+
+p {
+    line-height: 150%;
+    margin-bottom: 1.5em;
+    font-size: 14px;
+    color: #626262;
+
+}
+
+/*----------------MAIN_SECTION------------------*/
+.main_section {}
+
+
+
+/*----------------HEADER_STRAR------------------*/
+
+.header_section {
+    margin-top: 70px;
+}
+
+.large_container {}
+
+.total_header {}
+
+.header_area {
+    display: flex;
+    flex-wrap: wrap;
+    padding-bottom: 60px;
+}
+
+.logo {
+    flex-basis: 45%;
+    max-width: 45%;
+}
+
+.logo img {}
+
+header {
+    flex-basis: 55%;
+    max-width: 55%;
+}
+
+nav {
+    display: flex;
+    justify-content: flex-end;
+}
+
+nav ul {}
+
+nav ul li {
+    display: inline;
+}
+
+nav ul li a {
+    margin-left: 65px;
+}
+
+.slider_img_area {}
+
+.slider_img_area img {}
+
+/*----------------CONTENT_START------------------*/
+.content_section {
+    padding-top: 100px;
+}
+
+.contant_area {}
+
+.contant_txt_area {}
+
+.contant_txt_area ul {}
+
+.contant_txt_area ul li {
+
+    margin-top: 30px;
+    margin-bottom: 40px;
+}
+
+.contant_txt_area ul li a {}
+
+.contant_txt_area h2 {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    font-size: 30px;
+    color: #626262;
+}
+
+.contant_txt_area p {
+    text-align: justify;
+}
+
+/*----------*/
+
+.contant_service_area {}
+
+.contant_service_area_part {
+    flex-basis: 50%;
+    max-width: 50%;
+}
+
+.contant_service_img {}
+
+.contant_service_img img {
+    padding-top: 110px;
+}
+
+.contant_service_txt {}
+
+.contant_service_txt ul {}
+
+.contant_service_txt ul li {
+    padding: 30px 0;
+}
+
+.contant_service_txt h2 {}
+
+.contant_service_txt p {
+    padding-top: 25px;
+    text-align: inherit;
+    padding-right: 70px;
+}
+
+.contant_service_txt ul li a {}
+
+
+/*----------------SINGUP_START------------------*/
+.signup_section {
+    background: #F0F0F0;
+}
+
+.signup_area {
+    text-align: center;
+    padding: 70px 0;
+}
+
+.signup_area h2 {}
+
+.signup_area input [type="email"] {}
+
+.signup_area input {
+    border-bottom: 1px solid black;
+    width: 40%;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: #626262;
+    padding-top: 70px;
+    padding-bottom: 10px;
+    font-size: 14px;
+    background: transparent;
+}
+
+
+/*----------------SERVICE_START------------------*/
+.service2_section {}
+
+.contant_service_area {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.button_area {
+    width: 100%;
+    text-align: center;
+    padding: 160px 0;
+}
+
+.button_area button {
+    color: #626262;
+    background: transparent;
+    padding: 23px 40px;
+    border: 1px solid black;
+    border-bottom: none;
+}
+
+
+/*----------------FOOTER START------------------*/
+
+.footer_section {
+    background: #F0F0F0;
+}
+
+.footer_area {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 40px 0;
+}
+
+.footer_area_left {
+    flex-basis: 50%;
+    max-width: 50%;
+}
+
+.footer_area_left ul {}
+
+.footer_area_left ul li {
+    display: inline;
+}
+
+.footer_area_left ul li a {
+    color: black;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.footer_area_right {
+    flex-basis: 50%;
+    max-width: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.footer_area_right ul {
+    padding-right: 25px;
+}
+
+.footer_area_right ul li {}
+
+.footer_area_right ul li a {
+    color: black;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.footer_icon {}
+
+.footer_icon i {
+    color: #626262;
+    padding-right: 15px;
+}
+
+
+/*----------------START------------------*/
+
+/*----------------START------------------*/
+.aaaaaaaaaaa {}
